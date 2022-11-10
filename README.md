@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- <a rel="no follow me" href="https://mastodon.social/@RDahyot">Mastodon</a>
+
 <!--
 **Roznn/Roznn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
