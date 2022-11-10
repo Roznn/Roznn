@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- <a rel="no follow me" href="https://mastodon.social/@RDahyot">Mastodon</a>
+I am a Professor of Computer Science at the University of Maynooth Ireland.
+
+
+- <a rel="no follow me" href="https://mastodon.social/@RDahyot" target="_blank">Mastodon</a>
 
 <!--
 **Roznn/Roznn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
